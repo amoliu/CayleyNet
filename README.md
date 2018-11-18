@@ -7,7 +7,7 @@ Ron Levie, Federico Monti, Xavier Bresson, Michael M. Bronstein
 
 https://arxiv.org/abs/1705.07664
 
-The repository contains in particular a sparse implementation of the NN used for solving the MNIST digits classification problem described in the paper. Rational spectral filters are approximated with Jacobi Method to provide an efficient solution.
+The repository contains a sparse implementation of the NN used for solving the MNIST digits classification problem described in the paper. Rational spectral filters are approximated with Jacobi Method to provide an efficient solution.
 
 ## When shall I use CayleyNet?
 
