@@ -1,7 +1,7 @@
 # CayleyNets
 We present a TensorFlow implementation of the Graph Convolutional Neural Network illustrated in:
 
-CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters
+CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters<br>
 IEEE Transactions on Signal Processing, 2018
 Ron Levie, Federico Monti, Xavier Bresson, Michael M. Bronstein
 
